@@ -1,9 +1,3 @@
-<style>
-  table{
-    width: 100%;
-  }
-</style>
-
 ## VCCC: Voice Conversion via Cycle reconstruction and Contrastive learning 
 
 Hongshen Sun, Peiji Yang, Xin Chen, Zhisheng Wang, Dongyang Qiu, Mingliang Liu and Lei Zheng
@@ -19,6 +13,8 @@ Tencent Groups
 
 1. sample_009_unseen_p308
 
-|         | Source | Reference | Voice Conversion Result |
-| ------- | ------ | --------- | ----------------------- |
-| **wav** |   ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/src.wav"></audio>     |       ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/ref.wav"></audio>    |               ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/vc.wav"></audio>          |
+|                         |                                                                                                          **wav** |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Source                  | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/src.wav"></audio> | 
+| Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/ref.wav"></audio> |   
+| Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/vc.wav"></audio>  |
