@@ -11,7 +11,7 @@ Tencent Groups
 
 ## Samples
 
-1. sample_026_p294_p361
+1、 sample_026_p294_p361
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -19,7 +19,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_026_p294_p361/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_026_p294_p361/vc.wav"></audio>  |
 
-2. sample_035_p361_p281
+
+2、 sample_035_p361_p281
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +28,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_035_p361_p281/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_035_p361_p281/vc.wav"></audio>  |
 
-3. sample_048_p246_p361
+
+3、 sample_048_p246_p361
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +37,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_048_p246_p361/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_048_p246_p361/vc.wav"></audio>  |
 
-4. sample_062_p246_p308
+
+4、 sample_062_p246_p308
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +46,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_062_p246_p308/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_062_p246_p308/vc.wav"></audio>  |
 
-5. sample_064_p294_p241
+
+5、 sample_064_p294_p241
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +55,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_064_p294_p241/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_064_p294_p241/vc.wav"></audio>  |
 
-6. sample_088_p281_p246
+
+6、 sample_088_p281_p246
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +64,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_088_p281_p246/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_088_p281_p246/vc.wav"></audio>  |
 
-7. sample_092_p241_p281
+
+7、 sample_092_p241_p281
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +73,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_092_p241_p281/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_092_p241_p281/vc.wav"></audio>  |
 
-8. sample_093_p241_p294
+
+8、 sample_093_p241_p294
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +82,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_093_p241_p294/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_093_p241_p294/vc.wav"></audio>  |
 
-9. sample_009_unseen_p308
+
+9、 sample_009_unseen_p308
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -83,7 +91,8 @@ Tencent Groups
 | Reference               | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/ref.wav"></audio> |   
 | Voice Conversion Result | ​<audio id="audio" controls="" preload="none"><source id="wav" src="mic/sample_009_unseen_p308/vc.wav"></audio>  |
 
-10. sample_018_unseen_p308
+
+10、 sample_018_unseen_p308
 
 |                         |                                                                                                          **wav** |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
