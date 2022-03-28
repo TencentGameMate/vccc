@@ -1,3 +1,9 @@
+<style>
+  table{
+    width: 100%;
+  }
+</style>
+
 ## VCCC: Voice Conversion via Cycle reconstruction and Contrastive learning 
 
 Hongshen Sun, Peiji Yang, Xin Chen, Zhisheng Wang, Dongyang Qiu, Mingliang Liu and Lei Zheng
